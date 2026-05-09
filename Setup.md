@@ -31,7 +31,19 @@ Center at 41 Cooper Square
     * Inorder for anything to have a chance of working you'll need to be on the roof
 
 #### Module View
+Once you have created your new ground station next set up the module view with a few satellites
 
+On the top left File > New Module 
+
+Select the Cooper ground station and add satellites I would suggest ISS, some NOAA, and other meteorology ones
+
+Once you have your module set up select a satellite I have ISS selected. 
+
+You should see a large amount of information on the bottom right of your screen about the ISS.
+
+We want to export the Azimuth and Elevation data to our steppers. 
+
+#### Data Out
 
 
 
